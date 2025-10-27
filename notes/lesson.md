@@ -27,12 +27,12 @@
 
 --- 
 
-## 第二节课:
+## 第二节课: 
+> 缺席
 - 课前准备：
     - 环境：
         - miniconda
             - ai_env: py=3.9
             > 网络问题
-            
         - jupter notebook:
             

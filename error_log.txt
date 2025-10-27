@@ -1,0 +1,1 @@
+图像: n01494475_hammerhead.JPEG 真实类别: <class 'type'> 识别结果: 类别: "swimsuit", 概率: 83.87% 类别: "sarong", 概率: 6.18% 类别: "shoal", 概率: 3.76% 类别: "sunscreen", 概率: 1.74% 类别: "tank suit", 概率: 0.71% 
